@@ -1,0 +1,22 @@
+h1
+{
+    text-align: center;
+    color: rgb(42, 140, 165);
+    text-decoration: underline;
+    text-align : center;
+}
+p{
+    text-align: center;
+}
+h2{
+    text-align: center;
+    color: lightseagreen;
+}
+h5{
+    text-decoration-line: underline;
+    text-align: center;
+}
+span{
+    text-align: center;
+}
+
